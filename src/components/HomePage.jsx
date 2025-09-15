@@ -39,8 +39,8 @@ const HomePage = () => {
       <div ref={containerRef} className="flex flex-col justify-between min-h-screen">
 
         {/* Header */}
-        <header className="absolute top-5 left-5 text-3xl font-bold text-green-600 z-20 bg-red-500 bg-[url('./public/logo1.png')] bg-no-repeat bg-contain h-20 w-20">
-          {/* Logo Area */}
+        <header className="absolute top-5 left-5 text-3xl font-bold text-green-600 z-20 bg-red-500 o-repeat bg-contain h-20 w-20">
+        <img src="/logo1.png" alt="Logo" />
         </header>
 
         {/* Main Content */}
