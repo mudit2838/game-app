@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import SpaceInvadersGame from './SpaceInvadersGame';
-import TetrisGame from './tetrisGame';
+import TetrisGame from './TetrisGame';
 import PacMan from './PacMan';
 import TicTacToe from './TicTacToe';
 import Sudoku from './Sudoku';
